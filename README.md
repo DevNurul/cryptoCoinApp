@@ -23,5 +23,3 @@ A simple web application built with **HTML, CSS, and JavaScript** that fetches a
 - **coingecko** – Crypto data provider
 
 ---
-
-## 📂 Project Structure
