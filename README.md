@@ -1,6 +1,6 @@
 # 💰 Crypto Coin Data Fetch App
 
-A simple web application built with **HTML, CSS, and JavaScript** that fetches and displays cryptocurrency data in real-time using the [CoinAPI](https://www.coinapi.io/).
+A simple web application built with **HTML, CSS, and JavaScript** that fetches and displays cryptocurrency data in real-time using the [coingecko](https://www.coingecko.com/).
 
 ---
 
@@ -16,7 +16,7 @@ A simple web application built with **HTML, CSS, and JavaScript** that fetches a
 - **HTML5** – Structure of the app
 - **CSS3** – Styling and responsive design
 - **JavaScript (ES6)** – Fetch API & DOM manipulation
-- **CoinAPI** – Crypto data provider
+- **coingecko** – Crypto data provider
 
 ---
 
